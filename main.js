@@ -41,5 +41,4 @@ var isPabloTired = false;
 var isHomeworkDone = true;
 var isEnoughMoney = true;
 
-/* am I going out to eat? */
 console.log((isPabloTired && isHomeworkDone) || isEnoughMoney);
